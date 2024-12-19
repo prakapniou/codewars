@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DifferenceOfSquares", "DifferenceOfSquares\DifferenceOfSquares.csproj", "{82712AA5-AB9C-4F30-800D-9ADFF26238D7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringEndsWith", "StringEndsWith\StringEndsWith.csproj", "{BAAAD34F-00F9-4D9F-8915-470B6388047E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{82712AA5-AB9C-4F30-800D-9ADFF26238D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{82712AA5-AB9C-4F30-800D-9ADFF26238D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{82712AA5-AB9C-4F30-800D-9ADFF26238D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BAAAD34F-00F9-4D9F-8915-470B6388047E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAAAD34F-00F9-4D9F-8915-470B6388047E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAAAD34F-00F9-4D9F-8915-470B6388047E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAAAD34F-00F9-4D9F-8915-470B6388047E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
